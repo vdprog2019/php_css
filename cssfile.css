@@ -1,0 +1,13 @@
+
+
+@keyframes move{
+    from{ width: 233px;}
+    to{width: 800px;}
+
+    from{height: 233px;}
+    to{height: 800px;}
+}
+
+.move{
+    animation: move 5s;
+}
